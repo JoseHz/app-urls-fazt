@@ -199,6 +199,7 @@ dist
 
 # Local History for Visual Studio Code
 .history/
+mysql-db/
 
 # Built Visual Studio Code Extensions
 *.vsix
